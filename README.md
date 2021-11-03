@@ -1,8 +1,6 @@
 <div align="center">
   
 ## Gabriel Andreazza
-  
-</div>
 
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
@@ -13,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-
+</div>
 
 ### Projetos bacanas
 | Projeto | Linguagem      | 
