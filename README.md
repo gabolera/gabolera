@@ -3,8 +3,15 @@
 ## 🚀 Sobre mim
 
 ```
-- 🌱 em breve...
+- 🌱 Nascido em 2000 e apaixonado por tecnologia e desenvolvimento de software, completamente 
+  autodidata, meu primeiro ‘hello world’ foi aos 12 anos de idade com PHP, atualmente trabalho 
+  principalmente com NodeJS, PHP, Oracle, Mongo, RabbitMQ
 ```
+
+<!-- - 🧪 Sou muito curioso e por isso sempre tento contribuir com projetos aqui no github! Existem 
+  projetos bacanas que ajudam toda a comunidade de desenvolvimento e esses projetos precisam da
+  ajuda de todos -->
+
 
 ---
 
@@ -32,7 +39,7 @@
 
 🧠 Estou aprendendo Clean Arch
 
-🤔 Procuro ajuda com projetos open source que estão no meu perfil
+🤔 Procurando sempre aprender mais e ajudar em projetos opensource
 
 📫 contato♻andreazza.dev
 ```
@@ -41,10 +48,11 @@
 </div>
 
 ---
-
+<!-- 
 ### Projetos bacanas
 | Projeto | Linguagem      | 
 | :----   | :---:       |    
-| [Game BirdBird](https://github.com/ericksonlargura/bird-bird) | ![GodotEngine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) | 
+| [Game BirdBird](https://github.com/ericksonlargura/bird-bird) | ![GodotEngine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) |  
+-->
 
 
