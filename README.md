@@ -44,10 +44,14 @@
 📫 contato♻andreazza.dev
 ```
 
+---
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabolera&theme=material-palenight" alt="git status"/>
 </div>
 
----
+
+
 <!-- 
 ### Projetos bacanas
 | Projeto | Linguagem      | 
