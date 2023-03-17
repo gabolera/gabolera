@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gabolera&theme=material-palenight" alt="git status"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabolera&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=6441a5&fire=6441a5&currStreakLabel=6441a5" alt="git status"/>
 </div>
 
 
