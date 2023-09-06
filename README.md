@@ -3,15 +3,12 @@
 ## 🚀 Sobre mim
 
 ```
-- 🌱 Nascido em 2000 e apaixonado por tecnologia e desenvolvimento de software, completamente 
-  autodidata, meu primeiro ‘hello world’ foi aos 12 anos de idade com PHP, atualmente trabalho 
-  principalmente com NodeJS, PHP, Oracle, Mongo, RabbitMQ
+- 🌱 Nascido em 2000 e apaixonado por tecnologia e
+  desenvolvimento de software, completamente autodidata,
+  meu primeiro ‘hello world’ foi aos 12 anos de idade com
+  PHP, atualmente trabalho principalmente com NodeJS, PHP,
+  Oracle, Mongo, RabbitMQ
 ```
-
-<!-- - 🧪 Sou muito curioso e por isso sempre tento contribuir com projetos aqui no github! Existem 
-  projetos bacanas que ajudam toda a comunidade de desenvolvimento e esses projetos precisam da
-  ajuda de todos -->
-
 
 ---
 
@@ -32,6 +29,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
+
+---
+
+### 🧪 Projetos open source
+
+Sou muito curioso e por isso sempre tento contribuir com projetos aqui no github! Existem projetos bacanas que ajudam toda a comunidade de desenvolvimento e esses projetos precisam da ajuda de todos 
+
+
+| Projeto | Feature | PR/Issue |
+|--|:--|--|
+| [vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) | Adicionando recurso para exibir a quantidade de caracteres gasto no texto do commit | [Issue/PR](https://github.com/vivaxy/vscode-conventional-commits/issues/293) |
+| [ghostscript-node](https://github.com/sigalor/ghostscript-node/) | Adicionando recurso para otimizar tamanho do PDF | [Issue/PR](https://github.com/sigalor/ghostscript-node/issues/3) |
+
+---
 
 ## Mais?
 ```text
