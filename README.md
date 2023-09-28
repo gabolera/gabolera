@@ -37,10 +37,11 @@
 Sou muito curioso e por isso sempre tento contribuir com projetos aqui no github! Existem projetos bacanas que ajudam toda a comunidade de desenvolvimento e esses projetos precisam da ajuda de todos 
 
 
-| Projeto | Feature | PR/Issue |
-|--|:--|--|
-| [vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) | Adicionando recurso para exibir a quantidade de caracteres gasto no texto do commit | [Issue/PR](https://github.com/vivaxy/vscode-conventional-commits/issues/293) |
-| [ghostscript-node](https://github.com/sigalor/ghostscript-node/) | Adicionando recurso para otimizar tamanho do PDF | [Issue/PR](https://github.com/sigalor/ghostscript-node/issues/3) |
+| Projeto | Feature | Issue | Pull Request |
+|--|:--|-----|--|
+| [vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) | Adicionando recurso para exibir a quantidade de caracteres gasto no texto do commit | [Issue](https://github.com/vivaxy/vscode-conventional-commits/issues/293) | [⏳ PR](https://github.com/vivaxy/vscode-conventional-commits/pull/310) |
+| [ghostscript-node](https://github.com/sigalor/ghostscript-node/) | Adicionando recurso para otimizar tamanho do PDF | [Issue](https://github.com/sigalor/ghostscript-node/issues/3) | [✅ PR](https://github.com/sigalor/ghostscript-node/pull/4) |
+| [r-integration](https://github.com/FabrizioSandri/r-integration) | Adicionando recurso para executar scripts R diretamente do nodejs e adicionado recurso para retornar os valores de tabelas processadas pelo R diretamente para o nodejs | [Issue](https://github.com/FabrizioSandri/r-integration/issues/16) | [🚧 PR](https://github.com/gabolera/r-integration) |
 
 ---
 
