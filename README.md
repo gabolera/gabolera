@@ -4,9 +4,9 @@
 
 ```
 - 🌱 Nascido em 2000 e apaixonado por tecnologia e
-  desenvolvimento de software, completamente autodidata,
-  meu primeiro ‘hello world’ foi aos 12 anos de idade com
-  PHP, atualmente trabalho principalmente com NodeJS, PHP,
+  desenvolvimento de software, autodidata,  meu primeiro
+  ‘hello world’ foi aos 12 anos de idade com PHP,
+  atualmente trabalho mais ativamente com NodeJS, PHP,
   Oracle, Mongo, RabbitMQ
 ```
 
@@ -20,14 +20,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  /> -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 ---
@@ -41,15 +42,15 @@ Sou muito curioso e por isso sempre tento contribuir com projetos aqui no github
 |--|:--|-----|--|
 | [vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) | Adicionando recurso para exibir a quantidade de caracteres gasto no texto do commit | [Issue](https://github.com/vivaxy/vscode-conventional-commits/issues/293) | [⏳ PR](https://github.com/vivaxy/vscode-conventional-commits/pull/310) |
 | [ghostscript-node](https://github.com/sigalor/ghostscript-node/) | Adicionando recurso para otimizar tamanho do PDF | [Issue](https://github.com/sigalor/ghostscript-node/issues/3) | [✅ PR](https://github.com/sigalor/ghostscript-node/pull/4) |
-| [r-integration](https://github.com/FabrizioSandri/r-integration) | Adicionando recurso para executar scripts R diretamente do nodejs e adicionado recurso para retornar os valores de tabelas processadas pelo R diretamente para o nodejs | [Issue](https://github.com/FabrizioSandri/r-integration/issues/16) | [🚧 PR](https://github.com/gabolera/r-integration) |
+<!--| [r-integration](https://github.com/FabrizioSandri/r-integration) | Adicionando recurso para executar scripts R diretamente do nodejs e adicionado recurso para retornar os valores de tabelas processadas pelo R diretamente para o nodejs | [Issue](https://github.com/FabrizioSandri/r-integration/issues/16) | [🚧 PR](https://github.com/gabolera/r-integration) |-->
 
 ---
 
-## Mais?
+## Mais
 ```text
-👩‍💻 Trabalho atualmente com aplicações em nodeJS e PHP
+👩‍💻 Trabalho atualmente principalmente com aplicações em NodeJS e PHP
 
-🧠 Estou aprendendo Clean Arch
+🧠 Estudando sempre.
 
 🤔 Procurando sempre aprender mais e ajudar em projetos opensource
 
